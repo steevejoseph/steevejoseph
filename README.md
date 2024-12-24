@@ -29,10 +29,10 @@ Software Engineer passionate about cloud technologies, AI, and building impactfu
 ```typescript
 const steeve = {
     languages: ["Java/C#", "TypeScript", "Python", "C", "Go", "Rust"],
-    cloud: ["Azure", "DevOps", "Vercel", "Docker"],
+    cloud: ["Azure", "Vercel", "Docker"],
     frontend: ["React", "Next.js", "TailwindCSS"],
-    backend: ["ASP.NET", "Node.js"],
-    databases: ["MongoDB", "Firebase"]
+    backend: ["ASP.NET", "Node.js", "Flask"],
+    databases: ["MongoDB", "Firebase", "PostgreSQL"]
 }
 ```
 
